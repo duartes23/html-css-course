@@ -1,0 +1,27 @@
+/* selector { property: value; }*/
+h1 {
+    color: blueviolet;
+    background-color: aquamarine;
+}
+h2{
+    color: rgb(226, 53, 53);
+}
+h3{
+    color: #3cb371;
+}
+html{
+    font-size: 16px;
+}
+p{
+    font-size: 2rem;
+}
+section{
+    width: 500px;
+    height: 500px;
+    background-color: chocolate;
+}
+div{
+    width: 50%;
+    height: 50%;
+    background-color: #3cb371;
+}
