@@ -1,7 +1,15 @@
 /* selector { property: value; }*/
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+
 h1 {
     color: blueviolet;
     background-color: aquamarine;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    font-weight: normal;
 }
 h2{
     color: rgb(226, 53, 53);
@@ -14,6 +22,12 @@ html{
 }
 p{
     font-size: 2rem;
+    line-height: 40px;
+    letter-spacing: 20px;
+    word-spacing: 20px;
+    cursor: help;
+    font-weight: 400;
+    font-family: "Lemon", serif;
 }
 section{
     width: 500px;
